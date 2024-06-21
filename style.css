@@ -1,0 +1,123 @@
+*{
+    margin:0px;
+    padding:0px;
+    /* background-color:#F2F2F2; */
+}
+.main{
+    height:336px;
+    width:100%;
+    background-color:#457B9D;
+    /* display:grid; */
+    /* justify-items:center; */
+}
+.meet{
+    text-align:center; 
+    color:white; 
+    font-size:40px; 
+    margin-bottom:15px;
+    font-family:'Trebuchet MS';
+}
+.Athena1{
+    text-align:center;
+    color:white;
+    font-size:80px; 
+    margin-bottom:10px;
+    font-family: 'Baskerville'; 
+}
+.tagline{
+    text-align:center;
+    margin-left:500px;
+    font-size:25px;
+
+}
+.chatnow{
+    height:60px;
+    width:245px;
+    background-color:#FAEDCD;
+    border-radius:7px 7px;
+    text-align:center;
+    align-content: center;
+    font-size:35px;
+    margin:auto;
+    margin-top:30px;
+    font-family:'Trebuchet MS';
+    
+}
+.chatnow a{
+    text-decoration:none;
+    color:black;
+}
+.chatnow:hover{
+    background-color:rgb(212, 212, 212);
+}
+.content{
+    display:flex;
+    justify-content:center;
+    margin-top:100px;
+}
+.box{
+    height:308px;
+    width:312px;
+    background-color:#F5EBE0;
+    margin:30px;
+    border-radius:10px;
+    font-size:20px;
+    text-align:center;
+    font-weight:500;
+    padding:20px;
+    font-family:sans-serif;
+    box-shadow: 10px 0 5px -2px #888;
+}
+.footer{
+    background-color:#cacaca;
+    height:195px;
+    width:100%;
+    margin-top:100px;
+}
+.more{
+    padding-top:20px;
+    margin-left:20px;
+    font-size:40px;
+}
+.footer p{
+    text-align: left;
+    margin: 20px;
+    font-size:1.2rem;
+    font-family:sans-serif;
+}
+.img1{
+    background-image:url("bg\ \(1\).png");
+    background-size: cover;
+    height:153px;
+    width:153px;
+    margin-left:68px;
+    margin-top:50px;
+    border-radius:10px;
+}
+.img2{
+    background-image:url("graphic2.png");
+    background-size: cover;
+    height:153px;
+    width:153px;
+    margin-left:68px;
+    margin-top:50px;
+    border-radius:10px;
+}
+.img3{
+    background-image:url("channels4_profile.jpg");
+    background-size: cover;
+    height:153px;
+    width:153px;
+    margin-left:68px;
+    margin-top:50px;
+    border-radius:10px;
+}
+.img4{
+    background-image:url("Online-courses.jpg");
+    background-size: cover;
+    height:153px;
+    width:153px;
+    margin-left:68px;
+    margin-top:50px;
+    border-radius:10px;
+}
